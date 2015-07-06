@@ -1,0 +1,19 @@
+.rowexpanderwithcomponents .x-grid-row-focused .x-grid-data-row {
+  background-color: #e2eff8;
+}
+.rowexpanderwithcomponents .x-grid-row-over .x-grid-data-row {
+  background-color: #e2eff8;
+}
+.rowexpanderwithcomponents .x-grid-row-selected .x-grid-data-row {
+  background-color: #c1ddf1;
+}
+
+.rowexpanderwithcomponents .x-grid-row-focused .x-grid-td {
+  background-color: transparent;
+}
+.rowexpanderwithcomponents .x-grid-row-over .x-grid-td {
+  background-color: transparent;
+}
+.rowexpanderwithcomponents .x-grid-row-selected .x-grid-td {
+  background-color: transparent;
+}
